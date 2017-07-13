@@ -299,6 +299,7 @@ form .row:first-child .floating-label-form-group {
 }
 footer {
   color: #233140;
+  padding-bottom: 0;
 }
 /*
 footer h3 {
@@ -306,7 +307,7 @@ footer h3 {
 */
 
 footer .footer-above {
-  padding-top: 50px;
+  padding-top: 10px;
   background-color: #2C3E50;
 }
 footer .footer-col {
@@ -536,4 +537,12 @@ div#maincontent {
 
 .footer .text-center {
   margin-bottom: 15px;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-grey {
+  color: grey;
 }
