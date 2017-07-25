@@ -546,3 +546,23 @@ div#maincontent {
 .text-grey {
   color: grey;
 }
+
+.bluehref {
+}
+
+#about a {
+  color: purple;
+
+}
+
+#QA a {
+  color: mediumpurple;
+}
+
+.questions {
+  font-weight: bold;
+}
+
+.answers {
+  font-size: 12px;
+}
